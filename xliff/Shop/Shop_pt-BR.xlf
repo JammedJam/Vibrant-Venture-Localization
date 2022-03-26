@@ -107,7 +107,7 @@ Oof!</target>
         </segment>
       </unit>
       <unit id="544332211974144" name="LongerInvincibility" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Longer Invincibility\title
 - When taking damage, you will remain invincible for longer!
 
@@ -116,7 +116,8 @@ Oof!</target>
           <target>Invencibilidade Longa\title
 - Quando tomar dano, você ficará invencível por uma duração maior!
 
-- Útil para os que possuem dificuldades em se re-estabelecer após sofrer um ataque!</target>
+- Útil para os que possuem dificuldades em se re-estabelecer após sofrer um ataque!
+</target>
         </segment>
       </unit>
       <unit id="548808612278272" name="SpawnWithFairy" xml:space="preserve">
